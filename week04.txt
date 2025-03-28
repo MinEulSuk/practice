@@ -21,6 +21,7 @@ git 명령어
 pull
 fetch
 
+연습입니다.
 
 
 
